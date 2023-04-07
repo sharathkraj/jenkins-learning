@@ -7,12 +7,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World");
 		System.out.println("Hello World123");
-		System.out.println("Hello World");
-		System.out.println("Hello World123fsdvs");
-		System.out.println("Hello Worlddsfdvsb");
-		System.out.println("Hello World12fbsfbsfb3");
-		System.out.println("Hello World12fbsfbsfb3");
-		System.out.println("Hello World12fbsfbsfb3");
+		System.out.println("Hello sharath");
 
 	}
 
